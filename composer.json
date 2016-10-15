@@ -1,8 +1,8 @@
 {
     "name": "tejasext/slider",
 	"type": "yii2-extension",
-	"description": "A PHP class to generate Hello world",
-	"keywords": ["yii2","extension","helloworld","tejas"],
+	"description": "A PHP class to generate jQuery Slider",
+	"keywords": ["yii2","extension","slider","tejas"],
 	 "license": "GPL-2.0",
     "authors": [
         {
