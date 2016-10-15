@@ -1,5 +1,5 @@
 {
-    "name": "tejasext/hello-world",
+    "name": "tejasext/slider",
 	"type": "yii2-extension",
 	"description": "A PHP class to generate Hello world",
 	"keywords": ["yii2","extension","helloworld","tejas"],
@@ -14,7 +14,7 @@
     "require": {},
     "autoload": {
         "psr-0": {
-            "HelloWorld": "src/"
+            "Slider": "src/"
         }
     }
 }
